@@ -40,12 +40,12 @@ a:hover,
   max-width: 100%;
   margin: 0 auto;
 }
-.article,
-.contact,
-.about,
-.blog,
-.signup {
-  padding: 10px 20px;
+#article,
+#contact,
+#about,
+#blog,
+#signup {
+  padding: 10px 25px;
   margin-bottom: 25px;
 }
 
